@@ -18,12 +18,14 @@
   },
   "homepage": "https://github.com/cameron4us/rest_api#readme",
   "devDependencies": {
+    "angular": "^1.5.0",
     "chai": "^3.4.1",
     "chai-http": "^1.0.0",
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-eslint": "^1.1.1",
     "gulp-mocha": "^2.2.0",
-    "mocha": "^2.3.4"
+    "mocha": "^2.3.4",
+    "webpack-stream": "^3.1.0"
   },
   "dependencies": {
     "bcrypt": "^0.8.5",
